@@ -55,3 +55,7 @@ const defaultConfig: Config = {
   pathToStoreSessions: DEFAULT_SESSION_PATH,
 };
 ```
+
+## Name
+
+`amser` means time in Welsh. Part of the [Hiraeth](https://github.com/eeue56/hiraeth) collection.
